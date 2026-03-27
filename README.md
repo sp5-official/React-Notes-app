@@ -1,7 +1,8 @@
 # 📒 React Notes App
 
 A modern and lightweight **Notes Management Web Application** built using **React.js**.
-This app allows users to **create, edit, and delete notes seamlessly**, providing a smooth and responsive user experience.
+This app allows users to **create and delete notes seamlessly**, providing a smooth and responsive user experience.
+
 
 
 ## 🚀 Live Demo
@@ -12,7 +13,6 @@ This app allows users to **create, edit, and delete notes seamlessly**, providin
 ## 📌 Features
 
 * 📝 Create new notes
-* ✏️ Edit existing notes
 * 🗑️ Delete notes
 * 📱 Fully responsive design
 * ⚡ Fast performance using React
@@ -24,7 +24,6 @@ This app allows users to **create, edit, and delete notes seamlessly**, providin
 * **Styling:**  Tailwind CSS
 * **Utilities:** UUID (for unique IDs)
 * **Package Manager:** npm
-
 
 
 ## 🧠 Project Overview
@@ -100,5 +99,3 @@ If you like this project:
 * ⭐ Star the repo
 * 🍴 Fork it
 * 📢 Share it with others
-
----
