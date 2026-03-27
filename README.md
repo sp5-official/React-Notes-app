@@ -3,13 +3,11 @@
 A modern and lightweight **Notes Management Web Application** built using **React.js**.
 This app allows users to **create, edit, and delete notes seamlessly**, providing a smooth and responsive user experience.
 
----
 
 ## 🚀 Live Demo
 
 > 🔗 (https://react-notes-app-ten-gamma.vercel.app/)
 
----
 
 ## 📌 Features
 
@@ -19,7 +17,6 @@ This app allows users to **create, edit, and delete notes seamlessly**, providin
 * 📱 Fully responsive design
 * ⚡ Fast performance using React
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +26,6 @@ This app allows users to **create, edit, and delete notes seamlessly**, providin
 * **Package Manager:** npm
 
 
----
 
 ## 🧠 Project Overview
 
@@ -49,25 +45,6 @@ Users can remove unwanted notes instantly.
 * Clean and minimal user interface
 * Color-coded notes for better visual distinction
 
----
-
-## 📄 Pages
-
-| Page Name  | Description        |
-| ---------- | ------------------ |
-| Notes      | Displays all notes |
-| CreateNote | Add a new note     |
-| EditNote   | Edit existing note |
-
----
-
-## 📦 Dependencies
-
-* React
-* UUID
-* React Icons (optional)
-
----
 
 ## 🤝 Contributing
 
@@ -93,13 +70,11 @@ Contributions are welcome!
    ```
 5. Open a Pull Request
 
----
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
 
 ## 👨‍💻 Author
 
@@ -108,7 +83,6 @@ This project is licensed under the **MIT License**.
 * 💼 Frontend Developer
 * 🚀 Passionate about Web Development
 
----
 
 ## 💡 Future Enhancements
 
@@ -118,7 +92,6 @@ This project is licensed under the **MIT License**.
 * 🔍 Search and filter notes
 * 📌 Pin important notes
 
----
 
 ## ⭐ Support
 
